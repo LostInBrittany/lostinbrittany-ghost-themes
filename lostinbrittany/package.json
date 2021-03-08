@@ -1,0 +1,13 @@
+{
+  "name": "lostinbrittany-ghost-theme",
+  "version": "1.0.0",
+  "description": "The default theme for [Ghost](http://github.com/tryghost/ghost/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "email": "horacio.gonzalez@gmail.com"
+  },
+  "license": "ISC"
+}
