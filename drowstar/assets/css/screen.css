@@ -293,7 +293,7 @@ body {
     justify-content: space-between;
     align-items: flex-start;
     overflow: hidden;
-    height: 64px;
+    height: 80px;
     font-size: 1.3rem;
 }
 
@@ -370,7 +370,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
 .site-nav-logo img {
     display: block;
     width: auto;
-    height: 21px;
+    height: 48px;
 }
 
 .site-home-header .site-nav-logo {
@@ -386,7 +386,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     position: absolute;
     z-index: 1000;
     display: flex;
-    margin: 0 0 0 -12px;
+    margin: 10px 0 0 -12px;
     padding: 0;
     list-style: none;
     transition: all 1.0s cubic-bezier(0.19, 1, 0.22, 1);
@@ -469,7 +469,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     justify-content: flex-end;
     align-items: center;
     padding: 10px 0;
-    height: 64px;
+    height: 80px;
 }
 
 .site-nav-right .nav {
